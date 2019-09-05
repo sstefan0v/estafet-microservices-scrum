@@ -10,4 +10,5 @@
 /.terraform.tfstate.lock.info
 /rds-inventory.cfg
 *.idea
+/ansible/openshift.local.clusterup
 
